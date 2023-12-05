@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](http://i.imgur.com/Uoy4Jumh.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Rodrigo ferreira</h1>
 <h3 align="center">Frontend student at ISLA Gaia</h3>
-https://i.imgur.com/WBUJ0yT.mp4
+
 <img align="right" alt="Coding" width="290" src="https://i0.wp.com/www.linuxlinks.com/wp-content/uploads/2018/06/200w-ascii.gif?resize=750%2C857&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f3rr3iraa&label=Profile%20views&color=0e75b6&style=flat" alt="f3rr3iraa" /> </p>
