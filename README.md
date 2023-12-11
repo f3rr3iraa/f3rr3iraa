@@ -9,7 +9,6 @@
 <h1 align="left">Skills and Experience</h1>
 <h3 align="left">Frontend student at ISLA Gaia</h3>
 
-<img align="right" alt="Coding" width="290" src="https://i0.wp.com/www.linuxlinks.com/wp-content/uploads/2018/06/200w-ascii.gif?resize=750%2C857&ssl=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f3rr3iraa&label=Profile%20views&color=0e75b6&style=flat" alt="f3rr3iraa" /> </p>
 
