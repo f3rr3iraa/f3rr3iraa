@@ -1,6 +1,6 @@
 [![MasterHead](http://i.imgur.com/Uoy4Jumh.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Rodrigo ferreira</h1>
-<h3 align="center">Frontend student at ISLA Gaia</h3>
+<h1 align="left">Hi 👋, I'm Rodrigo ferreira</h1>
+<h3 align="left">Frontend student at ISLA Gaia</h3>
 
 - 🌱 I’m currently learning **React and Laravel**
 
