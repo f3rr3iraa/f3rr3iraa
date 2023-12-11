@@ -4,6 +4,7 @@
 
 <br>
 - 🌱 I’m currently learning **React and Laravel**
+- 🌱 I’m currently learning **React and Laravel**
 
 - 📫 How to reach me **rodrigo.pintoff04@gmail.com**
   
