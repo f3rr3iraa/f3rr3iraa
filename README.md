@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Rodrigo ferreira</h1>
 <h3 align="center">Frontend student at ISLA Gaia</h3>
 
+<br>
 - 🌱 I’m currently learning **React and Laravel**
 
 - 📫 How to reach me **rodrigo.pintoff04@gmail.com**
   
+<br>
 <h1 align="left">Skills and Experience</h1>
 <h3 align="left">Frontend student at ISLA Gaia</h3>
 
