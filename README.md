@@ -8,7 +8,6 @@
   
 <br>
 <h1 align="left">Skills and Experience</h1>
-<h3 align="left">Frontend student at ISLA Gaia</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=f3rr3iraa&label=Profile%20views&color=0e75b6&style=flat" alt="f3rr3iraa" /> </p>
